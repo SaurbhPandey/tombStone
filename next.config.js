@@ -10,5 +10,6 @@ module.exports = {
         path: 'https://ik.imagekit.io/tombstonematcher/tombstone_images/',
         unoptimized: true,
     },
+    output : 'export'
 };
-// module.exports = nextConfig
+// module. Exports = nextConfig
